@@ -1,1 +1,1 @@
-sudo cp * /usr/share/games/bsdgames/atc
+sudo cp * $(atc -p)
